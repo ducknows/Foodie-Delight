@@ -19,5 +19,20 @@ This program is using apiKey in both Front End and Back End
 API_KEY=abc123 nodemon index.js
 ```
 
+# Features List
+- Fully Featured News Blog (as a microservice)
+	- Restore deleted articles
+	- Undo edits
+  - Favorite Recipes
+  - Unfavorite Recipes
+  - search recipes by ingredients categories
+  - Recommend a random recipe
+	- Individual pages for each recipe
+  - track ingredients by id
+
+# Coming Soon
+- Full documentation
+	- Setup tutorial
+
 
 
