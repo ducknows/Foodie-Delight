@@ -26,9 +26,6 @@ React<br>
 Node<br>
 
 ## Features List
-- Fully Featured News Blog (as a microservice)
-	- Restore deleted articles
-	- Undo edits
   - Favorite Recipes
   - Unfavorite Recipes
   - search recipes by ingredients categories
