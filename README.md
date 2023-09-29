@@ -34,7 +34,7 @@ Node<br>
 - Individual pages for each recipe
 - track ingredients by id
 
-# Coming Soon
+## Coming Soon
 
 - Full documentation
   - Setup tutorial
