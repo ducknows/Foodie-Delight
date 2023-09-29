@@ -18,14 +18,14 @@ This program is using apiKey in both Front End and Back End
 ```bash
 API_KEY=abc123 nodemon index.js
 ```
-### Built With
+## Built With
 
 MongoDB<br>
 Express<br>
 React<br>
 Node<br>
 
-### Features List
+## Features List
 - Fully Featured News Blog (as a microservice)
 	- Restore deleted articles
 	- Undo edits
