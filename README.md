@@ -26,16 +26,16 @@ React<br>
 Node<br>
 
 ## Features List
+  - Random recipe Recommendations
   - Favorite Recipes
   - Unfavorite Recipes
   - search recipes by ingredients categories
-  - Recommend a random recipe
-	- Individual pages for each recipe
+  - Individual pages for each recipe
   - track ingredients by id
 
 # Coming Soon
 - Full documentation
-	- Setup tutorial
+  - Setup tutorial
 
 
 
